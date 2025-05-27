@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333518557427",
+    "project_id": "petkun-pokemon-project",
+    "storage_bucket": "petkun-pokemon-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333518557427:android:06bdcc95d7e4d4f1a96786",
+        "android_client_info": {
+          "package_name": "com.example.pokemon_guessing_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdRhGWKU6PJo0LYfQkT4Da-4lbvHi6kzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
